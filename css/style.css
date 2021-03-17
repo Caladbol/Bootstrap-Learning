@@ -1,3 +1,36 @@
 *, *::after, *::before {
-    font-size: 16px;
+    font: 16px Arial serif;
+}
+
+.navbar {
+    background-color: #cee787;
+}
+
+.navbar-brand {
+    padding: 0 2rem 0 2rem;
+}
+
+.margin {
+    padding: 3rem 0 3rem 0;
+}
+
+.quem-somos{
+    background-color: rgb(243, 243, 243);
+}
+
+.rounded-circle {
+    margin: 1rem 0 1.5rem 0;
+}
+
+.parceiros {
+    background-color: rgb(194, 194, 194);
+}
+.servicos {
+    background-color: rgb(243, 243, 243);
+}
+
+.footer {
+    color: #fff;
+    background-color: rgb(41, 41, 41);
+    padding: 1rem;
 }
